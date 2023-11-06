@@ -1,0 +1,2 @@
+python towers.py
+pause
